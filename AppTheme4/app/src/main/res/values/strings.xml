@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppTheme4</string>
+    <string name="labelNick">Nick</string>
+    <string name="btnBack">Back</string>
+    <string name="btnShow">Show</string>
+    <string name="btnOptions">Options</string>
+    <string name="btnSend">Send</string>
+</resources>
