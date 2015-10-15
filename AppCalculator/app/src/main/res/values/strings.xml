@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AppCalculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtCero">0</string>
+    <string name="btnPlus">+</string>
+    <string name="btnLess">-</string>
+    <string name="btnMultiply">*</string>
+    <string name="btnDivide">/</string>
+    <string name="btnNine">9</string>
+    <string name="btnEight">8</string>
+    <string name="btnSeven">7</string>
+    <string name="btnSix">6</string>
+    <string name="btnFive">5</string>
+    <string name="btnFour">4</string>
+    <string name="btntThree">3</string>
+    <string name="btnTwo">2</string>
+    <string name="btnOne">1</string>
+    <string name="btnClear">C</string>
+    <string name="btnCero">0</string>
+    <string name="btnCalculate">=</string>
+    <string name="btnPoint">.</string>
+    <string name="txtOperations">Operations</string>
+    <string name="txtResult">Result</string>
+</resources>
