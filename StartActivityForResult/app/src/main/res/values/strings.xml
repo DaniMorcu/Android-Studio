@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StartActivityForResult</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnSend">Send</string>
+    <string name="btnGo">Go</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="btnBack">Back</string>
+    <string name="btnOk">Ok</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="ok">Return OK</string>
+    <string name="cancel">Return Cancel</string>
+
+</resources>

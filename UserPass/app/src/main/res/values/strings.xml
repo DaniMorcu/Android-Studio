@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UserPass</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtUser">User</string>
+    <string name="txtPass">Password</string>
+    <string name="btnSend">Send</string>
+    <string name="btnClear">Clear</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="msg01">Please, complete all fields. Thanks</string>
+</resources>
