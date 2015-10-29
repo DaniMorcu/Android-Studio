@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjercicioViews</string>
+    <string name="msgActivated">Activated</string>
+    <string name="msgNoActivated">No Activated</string>
+</resources>
